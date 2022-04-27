@@ -15,13 +15,14 @@
     "url": "git+https://github.com/Boopdid/Team_Profile_Generator.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Peter Vrutneski",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Boopdid/Team_Profile_Generator/issues"
   },
   "homepage": "https://github.com/Boopdid/Team_Profile_Generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.2"
+    "inquirer": "^8.2.2",
+    "jest": "^28.0.1"
   }
 }
