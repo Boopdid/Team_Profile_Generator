@@ -8,7 +8,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Boopdid/Team_Profile_Generator#readme",
   "dependencies": {
+    "email-validator": "^2.0.4",
     "inquirer": "^8.2.2",
     "jest": "^28.0.1"
   }
