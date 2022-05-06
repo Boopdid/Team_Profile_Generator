@@ -16,6 +16,14 @@ An application that generaters an HTML filethat add members of a team.
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Image preview
+
+![Preview Image of Code Quiz](images/Team_Generator.png)
+
+## Link to demo video
+
+https://drive.google.com/file/d/1UIkQrQcmmZY413mZmG3BWwn3ENqoWQse/view
+
 ## Installation
 
 Clone repository to your machine install inquirer, and emaill validation npms
