@@ -1,12 +1,12 @@
 const inquirer = require("inquirer");
 const emailValidator = require("email-validator");
 const fs = require("fs");
-// const generateHTML = require("./generateHTML");
+const generateHTML = require("./src/generatedHTML");
 const Engineer = require("./lib/engineer");
 const Manager = require("./lib/manager");
 const Intern = require("./lib/intern");
 
-teamMembers = [];
+let teamMembers = [];
 
 const nonEmptyValidation = async (input) => {
   if (input === "") {
